@@ -13,9 +13,10 @@ Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométr
 
 Complete la tabla:
 
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
+| Integrante     | github nick |
+|----------------+-------------|
+| Osmar Castillo | oacastillol |
+| Christian Vaca | ccvacad     |
 
 ## Discusión
 
@@ -23,12 +24,14 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+|Necker cube | Cognitive | [https://www.simplypsychology.org/](https://www.simplypsychology.org/perception-theories.html) | N/A |[https://ccvacad.github.io/Illusions_ws/Necker cube/](https://ccvacad.github.io/Illusions_ws/Necker%20cube/)|
+| Hermann grid | Physiological | Presentacion de clase | N/A |[https://ccvacad.github.io/Illusions_ws/Hermann grid/](https://ccvacad.github.io/Illusions_ws/Hermann%20grid/)|
+|Are These Lines Moving or Is This a Spinning Square?|Movimiento|[http://www.slate.com/](http://www.slate.com/blogs/bad_astronomy/2016/04/19/binding_motion_illusion_of_lines_moving_looks_like_a_spinning_square.html)|Aparece y desaparecen los cubos cuando se oprime una tecla|[https://ccvacad.github.io/Illusions_ws/Are These Lines Moving or Is This a Spinning Square/](https://ccvacad.github.io/Illusions_ws/Are%20These%20Lines%20Moving%20or%20Is%20This%20a%20Spinning%20Square/)|
+|Schroeder Stairs| Ambiguous figure | [http://mathworld.wolfram.com/](http://mathworld.wolfram.com/SchroederStairs.html)| N/A|         |
+| Parallel lines | Cognitive | [https://sites.google.com/](https://sites.google.com/site/ilusionesopticas1903/home/lineas) |  |                             |
+|  Ehrenstein illusion  | Physiological  |[http://www.newworldencyclopedia.org/](http://www.newworldencyclopedia.org/entry/Ehrenstein_illusion)||     |
+
+
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
