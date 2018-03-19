@@ -30,10 +30,14 @@ Complete la tabla:
 | Schroeder Stairs                                     | Ambiguous figure | [http://mathworld.wolfram.com/](http://mathworld.wolfram.com/SchroederStairs.html)                                                                     | N/A                                                                |[https://oacastillol.github.io/Illusions_ws/SchroederStairs/](https://oacastillol.github.io/Illusions_ws/SchroederStairs/) |
 | Parallel lines                                       | Cognitive        | [https://sites.google.com/](https://sites.google.com/site/ilusionesopticas1903/home/lineas)                                                            | Aparece y desaparecen las lineas del fondo cuando oprime una tecla |[https://oacastillol.github.io/Illusions_ws/ParallelLines/](https://oacastillol.github.io/Illusions_ws/ParallelLines/)|
 | Ehrenstein illusion                                  | Physiological    | [http://www.newworldencyclopedia.org/](http://www.newworldencyclopedia.org/entry/Ehrenstein_illusion)                                                  | Movimiento de las lineas                                           | [https://oacastillol.github.io/Illusions_ws/EhrensteinIllusion/](https://oacastillol.github.io/Illusions_ws/EhrensteinIllusion/)                                                                             |
-
+| Spinning circle                                          | Movimiento        | [https://sploid.gizmodo.com/](https://sploid.gizmodo.com/all-the-white-dots-in-this-rotating-circle-are-moving-i-1608517148)                                                         |Aparece y desaparecen las lineas cuando se oprime una tecla| [https://ccvacad.github.io/Illusions_ws/Spinning circle/](https://ccvacad.github.io/Illusions_ws/Spinning%20circle/) |
 
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
+
+Basandonos en la clasificación expuesta en clase, usamos como referencia las diferentes fuentes citadas en la tabla; partiendo de las imagenes de referencia se busco desarrollar el código en Processing mostrando una pequeña variacion respecto a la imagen original.
+
+Particularmente resulta interesante como la geometria ayudada de la psicologia y la percepción logra hacer de las figuras simples algo interesante para nuestro cerebro. Adicionalmente nos gustaria profundizar en el desarrollo de ilusiones que usen un plano tridimencional.
 
 ## Entrega
 
