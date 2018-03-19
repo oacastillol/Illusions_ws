@@ -1,4 +1,4 @@
-sizeWindow=540;
+sizeWindow=720;
 
 function setup() {
     createCanvas(sizeWindow,sizeWindow);
